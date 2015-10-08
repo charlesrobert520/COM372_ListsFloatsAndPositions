@@ -1,0 +1,46 @@
+LISTS
+list1:
+1)The bullet point circles had no fill.
+2)The bullet points shifted left.
+3)The bullet points became black squares.
+4)There are no longer any bullet points.
+5)Red box appeared around the list.
+6)The list items shifted as far to the left as possible.
+7)List items shifted back to the right.
+8)Bullets removed, list items shifted as far left as possible.
+
+list1 li
+1)Each list item has a black and dashed border.
+2)Space between border and text increased.
+3)The right edge of the border shifted much closer to the end of the text.
+4)The bottoms and tops of each individual borders were separated.
+5)Organized the bordered list items horizontally.
+6)Reorganized the items vertically.
+7)Reorganized the items horizontally.
+
+FLOATS
+1)testDiv1 shifted to the right, and testDiv2 shifted to be just left of testDiv1
+2)testDiv1 shifts back to the left and testDiv2 shifted to be just right of testDiv1
+3)testdiv1 is aligned with the right side of the page and testDiv2 is aligned with the left side of the page
+4)testDiv1 extends horizontally and testDiv2 drops below it
+5)43%
+6)testDiv2 drops beneath testDiv1
+7)(done)
+8)(done)
+9)(done)
+10)(done)
+
+POSITIONS
+1)(done)
+2)The div shifts 100 pixels to the left
+3)The div shifts 100 pixels off of the page to the left
+4)The div shifts down, slightly off the page
+5)The div shifts 200 pixels to the right
+6)The div returns to its original position
+7)(done)
+8)The div shifted to the top of the page
+9)The div shifts to the far right side of the page
+10)The div shifts 100 pixels to the left
+11)The div shifts to the very bottom of the page, beneath the ruler
+12)The bottom of the page shifts up
+13)(done)
